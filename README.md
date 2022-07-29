@@ -13,10 +13,10 @@
 
 - npm install
 
-## Where to start.
+## Where to start
 
 - npm run dev - to run development build.
-- npm run build - to run development build 
+- npm run build - to run development build
 - npm run export - for production environment.
 
 ## Directories
@@ -27,16 +27,13 @@
 
 · /components/: React components.
 
-· /styles: Tailwind css imports.
-
-## Characteristics.
+## Characteristics
 
 · Next.js / React.
 
-· TailwindCSS.
+· Styled Components.
 
 · Typescript.
-
 
 ## Show your support
 
