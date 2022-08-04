@@ -14,6 +14,10 @@ import "../styles/index.css";
 //     Welcome
 // } from "../components/";
 
+import {
+    Welcome
+} from "../components/";
+
 
 
 const MyApp = ({ Component, pageProps }: AppProps ): JSX.Element => {
@@ -54,8 +58,7 @@ const MyApp = ({ Component, pageProps }: AppProps ): JSX.Element => {
                     This website uses cookies to enhance the user experience.{" "}
                 </CookieConsent>
             </>
-        // ) : ( <Welcome /> )
-        ) : ( <div>Welcome!</div> )
+        ) : ( <Welcome /> )
     );
 };
 
